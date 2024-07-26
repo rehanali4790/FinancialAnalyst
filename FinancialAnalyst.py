@@ -47,7 +47,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("RockyBot: News Research Tool 📈")
+st.title("FinancialAnalystGPT: News Research Tool 📈")
 st.sidebar.title("News Article URLs")
 
 # Input for the number of URLs
